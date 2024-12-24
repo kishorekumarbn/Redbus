@@ -9,7 +9,7 @@ Discover the magic of automation as we journey through extracting bus details fr
 ## Project Highlights
 
 1. **Data Scraping with Selenium**:
-   - Unearth bus details like routes, seats available, prices, departure times, and more.
+   - Scrape bus details like routes, seats available, prices, departure times, and more.
    - Traverse multiple pages of the RedBus website to ensure no detail is left behind.
    - Save the scraped data into CSV files for future use.
 
